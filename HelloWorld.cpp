@@ -2,8 +2,13 @@
 
 using namespace std;
 
-int main()
+void PrintHello()
 {
 	cout << "Hello World!" << endl;
+}
+
+int main()
+{
+	PrintHello();
 	return 0;
 }

@@ -1,11 +1,4 @@
-#include <iostream>
-
-using namespace std;
-
-void PrintHello()
-{
-	cout << "Hello World!" << endl;
-}
+#include "PrintHello.h"
 
 int main()
 {
